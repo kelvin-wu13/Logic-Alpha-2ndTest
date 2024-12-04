@@ -31,9 +31,7 @@
   <tr>
     <td>Main Menu</td>
     <td><a href = "https://github.com/kelvin-wu13/Logic-Alpha-2ndTest/blob/main/Assets/Scenes/MainMenu.unity"> MainMenu.</a></td>
-    <td>-Show main menu UI.
-    - Load Level scene when player click the button.
-    - Exit Game when player click Quit.</td>
+    <td>-Show main menu UI,Load Level scene when player click the button,Exit Game when player click Quit.</td>
   </tr>
   <tr>
     <td>BackgroundScrolling</td>
@@ -43,16 +41,12 @@
       <tr>
     <td>PlayerController</td>
     <td><a href = "https://github.com/kelvin-wu13/Logic-Alpha-2ndTest/blob/main/Assets/Scenes/Level%201.unity"> Level 1 - Level 3.</a></td>
-    <td>-Move Player.
-    - Shoot Bullet.
-    - Handle PlayerDamage.</td>
+    <td>-Move Player,Shoot Bullet,Handle PlayerDamage.</td>
   </tr>
       <tr>
     <td>EnemyShip</td>
     <td><a href = "https://github.com/kelvin-wu13/Logic-Alpha-2ndTest/blob/main/Assets/Scenes/Level%201.unity"> Level 1 - Level 3.</a></td>
-    <td>-Handle EnemyDamage.
-    - Auto Shoot Bullet.
-    - Enemy Move Down</td>
+    <td>-Handle EnemyDamage,Auto Shoot Bullet,Enemy Move Down.</td>
   </tr>
       <tr>
     <td>EnemySpawner</td>
@@ -72,25 +66,6 @@
       <tr>
     <td>GameManager</td>
     <td><a href = "https://github.com/kelvin-wu13/Logic-Alpha-2ndTest/blob/main/Assets/Scenes/Level%201.unity"> Level 1 - Level 3.</a></td>
-    <td>-Display PlayerHealth -Display CoinScore</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <th>Requirement</th>
-    <th>Detail</th>
-  </tr>
-  <tr>
-    <td>-</td>
-    <td>Show main menu UI.</td>
-  </tr>
-  <tr>
-    <td>-</td>
-    <td>Load gameplay scene when player click play game button.</td>
-  </tr>
-  <tr>
-    <td>-</td>
-    <td>Exit game when player exit.</td>
+    <td>-Display PlayerHealth and Display CoinScore</td>
   </tr>
 </table>
