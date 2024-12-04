@@ -72,7 +72,7 @@
       <tr>
     <td>GameManager</td>
     <td><a href = "https://github.com/kelvin-wu13/Logic-Alpha-2ndTest/blob/main/Assets/Scenes/Level%201.unity"> Level 1 - Level 3.</a></td>
-    <td>-Display PlayerHealth.
-    - Display CoinScore</td>
+    <td>-Display PlayerHealth.</td>
+    <td>- Display CoinScore</td>
   </tr>
 </table>
