@@ -30,7 +30,7 @@
   </tr>
   <tr>
     <td>Main Menu</td>
-    <td>LINK SCENE MAIN MENU</td>
+    <td><a href = "https://github.com/kelvin-wu13/Logic-Alpha-2ndTest/blob/main/Assets/Scenes/MainMenu.unity"> MainMenu.</a></td>
     <td>-Show main menu UI.
     - Load Level scene when player click the button.</td>
   </tr>
