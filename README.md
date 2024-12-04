@@ -72,7 +72,25 @@
       <tr>
     <td>GameManager</td>
     <td><a href = "https://github.com/kelvin-wu13/Logic-Alpha-2ndTest/blob/main/Assets/Scenes/Level%201.unity"> Level 1 - Level 3.</a></td>
-    <td>-Display PlayerHealth.</td>
-    <td>- Display CoinScore</td>
+    <td>-Display PlayerHealth -Display CoinScore</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>Requirement</th>
+    <th>Detail</th>
+  </tr>
+  <tr>
+    <td>-</td>
+    <td>Show main menu UI.</td>
+  </tr>
+  <tr>
+    <td>-</td>
+    <td>Load gameplay scene when player click play game button.</td>
+  </tr>
+  <tr>
+    <td>-</td>
+    <td>Exit game when player exit.</td>
   </tr>
 </table>
