@@ -1,18 +1,19 @@
-## Games that I made:
+## Breakdown Feature:
 
-<table style="text-align: center;">
-  <thead>
-    <tr>
-      <th width="50%"><a>Nebula Defender</a></th>
-    <tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-<img width="100%" src="https://github.com/kelvin-wu13/kelvin-wu13/blob/main/GIF/LastStand.gif"></a>
-      </td>
-    </tr>
-    <tr>
-      <td valign="text-top">Nebula Defender is a spaceshooter game with multiple buff for player for increase in fire rate when defeating an enemy.With HighScore and Score system.Evade enemy bullet and achieve score higher than your previous one.Post-Processing includes: Bloom,Chromatic Abberation,Vignette,and Color Adjustment <a href="https://github.com/kelvin-wu13/NebulaDefender"> Check the game here.</a></td></td>
-    </tr>
-  </tbody>
+<table>
+  <tr>
+    <th>Scene Name</th>
+    <th>Description</th>
+    <th>Picture</th>
+  </tr>
+  <tr>
+    <td>Main Menu</td>
+    <td>Menu awal dari game memunculkan 3 opsi Level: Level 1, Level 2, Level 3.</td>
+    <td>GAMBAR</td>
+  </tr>
+  <tr>
+    <td>Level 1 - Level 3</td>
+    <td>Scene yang menampilkan game dari 2D SpaceShooter.Di scene ini pemain akan mengendalikan Spaceship untuk menembak spaceship lawan.Musuh yang berhasil tertembak akan drop coin dan heart item jika health player di bawah dar 3.</td>
+    <td>GAMBAR</td>
+  </tr>
+</table>
